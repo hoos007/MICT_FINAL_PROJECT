@@ -22,12 +22,12 @@ namespace MICT_Final_Project
 
         private String openFile(int type)
         {
-            openFileDialog1.Title = "영상 파일 열기"; //객체를 안만들고 사용한 이유는? 그러면 정적으로 선언하고 사용하는건가?
+            openFileDialog1.Title = "영상 파일 열기";
             openFileDialog1.Filter = " All Files(*.*) |*.*| Bitmap File(*.bmp)| *.bmp | Jpeg File(*.jpg) | *.jpg";
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 string strFilename = openFileDialog1.FileName;
-                HopFieldProcess.setImage(Image.FromFile(strFilename),type); //이름만 있는데 어케찾음? 파일아이디로 찾는다(리눅스처럼)
+                HopFieldProcess.setImage(Image.FromFile(strFilename),type);
                 return strFilename;
             }
             return null;
