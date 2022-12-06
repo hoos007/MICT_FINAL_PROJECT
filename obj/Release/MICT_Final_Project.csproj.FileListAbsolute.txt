@@ -1,0 +1,9 @@
+C:\Users\hoos0\source\repos\MICT_Final_Project\MICT_Final_Project\bin\Release\MICT_Final_Project.exe.config
+C:\Users\hoos0\source\repos\MICT_Final_Project\MICT_Final_Project\bin\Release\MICT_Final_Project.exe
+C:\Users\hoos0\source\repos\MICT_Final_Project\MICT_Final_Project\bin\Release\MICT_Final_Project.pdb
+C:\Users\hoos0\source\repos\MICT_Final_Project\MICT_Final_Project\obj\Release\MICT_Final_Project.Form1.resources
+C:\Users\hoos0\source\repos\MICT_Final_Project\MICT_Final_Project\obj\Release\MICT_Final_Project.Properties.Resources.resources
+C:\Users\hoos0\source\repos\MICT_Final_Project\MICT_Final_Project\obj\Release\MICT_Final_Project.csproj.GenerateResource.cache
+C:\Users\hoos0\source\repos\MICT_Final_Project\MICT_Final_Project\obj\Release\MICT_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\hoos0\source\repos\MICT_Final_Project\MICT_Final_Project\obj\Release\MICT_Final_Project.exe
+C:\Users\hoos0\source\repos\MICT_Final_Project\MICT_Final_Project\obj\Release\MICT_Final_Project.pdb
